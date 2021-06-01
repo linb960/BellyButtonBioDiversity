@@ -13,5 +13,6 @@ The website will update and you will be able to visualize the bacterial data and
 The reason this site would exist is because bacterial species have the ability to synthesize proteins that taste like beef and Improbable Beef wants to manufacture synthetic beef this dashboard can be used by Test Subjects to identify whether a species found in their navel is one Improbable Beef is using in their product.
 
 ## Results
+In addition to the bar chart, guage and bubble chart, three additional changes were made to the website.  This included a background image for the jumbotron, a background color for the site and a short paragraph on the reason the site existed and what it provides.<br><br>
  <img src="screenshots/BBB_screenshot.png">
   <img src="screenshots/BBB_Screenshot2.png">
